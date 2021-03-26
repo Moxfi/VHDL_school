@@ -1,9 +1,9 @@
 ;********************************************************************************************
 ;* Harjoitus 9: EEPROM kirjoitus															*
-;* Ryhm‰: Riku Ketonen & Timo Katajam‰ki & Antti-Jussi Pitk‰nen
+;* Ryhm√§: [redacted]
 ;* Tiedosto: Esim9.asm																		*
 ;********************************************************************************************
-	.include	"tn2313def.inc" ;* ATtiny2313 I/O Rekisterim‰‰ritykset
+	.include	"tn2313def.inc" ;* ATtiny2313 I/O Rekisterim√§√§ritykset
 
 	.equ		NULL 		= 0
 	.equ		EEPROM_OS 	= 0x20
